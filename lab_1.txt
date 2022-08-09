@@ -1,0 +1,14 @@
+
+Command Line Cheat Sheet
+
+
+pwd = display the current path
+Cd = change the directory to...
+ls = list the directory contents
+mkdir = make a new directory called...
+clear = clear the command window
+rm = delete the file
+Mv = move the file
+Cp = copy the file
+Touch = create a new file called...
+ 
